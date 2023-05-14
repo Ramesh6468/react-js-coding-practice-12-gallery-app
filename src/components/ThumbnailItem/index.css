@@ -1,0 +1,17 @@
+/* Write your code here. */
+.imageContainer {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.thumbnail2 {
+  opacity: 0.5;
+}
+.thumbnail1 {
+  opacity: 1;
+}

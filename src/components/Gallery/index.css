@@ -1,0 +1,30 @@
+/* Write your code here. */
+.bgContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.lists-container {
+  display: flex;
+}
+.image1 {
+  width: 70%;
+  text-align: center;
+  height: 50%;
+}
+.imageContainer {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  color: #1e293b;
+  font-size: 15px;
+}
+.photographer {
+  color: #64748b;
+}
+.bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
